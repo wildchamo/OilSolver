@@ -81,7 +81,17 @@ header button {
     font-size: 36px;
 }
 
+.section4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 10px 24px 10px;
+}
 
+.section4 h2 {
+    
+}
 
 .section5 {
     width:100%;
