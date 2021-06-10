@@ -81,6 +81,24 @@ header button {
     font-size: 36px;
 }
 
+.section3{
+    width:100vh;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.section3_first{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 14px;
+
+}
+.section3_first h3{
+    font-size: 20px;
+}
+.section3_first p{
+    font-size: 16px;
+}
+
 
 
 .section5 {
@@ -106,6 +124,9 @@ header button {
     justify-content: space-evenly;
     align-items: center;
 }
+
+
+
 .section5 button p{
     font-size: 20px;
 }
