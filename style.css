@@ -22,7 +22,14 @@ header{
 header h2{
     font-size: 30px ;
 }
-header button{
+header button img{
     width:35px;
-    height:20px;
+    height:30px;
+}
+header button {
+    color:transparent;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    
 }
