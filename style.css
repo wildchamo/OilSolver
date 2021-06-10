@@ -13,5 +13,16 @@ html{
 header{
     display:flex;
     flex-direction: row;
+    justify-content: space-between;
     height: 50px;
+    width: 100%;
+    padding: 10px 10px 20px 10px;
+    border-bottom: 1px #808080 solid;
+}
+header h2{
+    font-size: 30px ;
+}
+header button{
+    width:35px;
+    height:20px;
 }
