@@ -109,7 +109,16 @@ header button {
     height: 330px;
     
 }
-
+.section3_third{
+    width:100vh;
+     
+}
+.section3_third div h4{
+    font-size: 18px;
+}
+.section3_third div p{
+    font-size: 14px;
+}
 
 
 .section5 {
