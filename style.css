@@ -33,3 +33,18 @@ header button {
     border: none;
     
 }
+.section1{
+    width: 100%;
+    padding:30px 10px 20px 10px;
+    display: flex;
+    flex-direction: column;
+}
+.oilSolversImg{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.oilSolversImg img{
+    height:342px;
+    width:114px;
+}
