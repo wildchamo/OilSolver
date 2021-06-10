@@ -35,7 +35,7 @@ header button {
 }
 .section1{
     width: 100%;
-    padding:30px 10px 20px 10px;
+    padding:30px 15px 20px 15px;
     display: flex;
     flex-direction: column;
 }
@@ -47,4 +47,26 @@ header button {
 .oilSolversImg img{
     height:342px;
     width:114px;
+}
+
+.section1 .textButton{
+    padding-top: 30px;
+    
+}
+.textButton h1{
+    font-size: 38px;
+    padding-bottom: 20px;
+}
+.textButton h3{
+    font-size: 24px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.textButton button{
+    width: 200px;
+    height: 60px;
+    border-radius: 70px;
+    border:none;
+    background-color: #5DE283;
+    font-size: 20px;
 }
