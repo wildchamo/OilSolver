@@ -70,3 +70,12 @@ header button {
     background-color: #5DE283;
     font-size: 20px;
 }
+.section2{
+    width:100%;
+    padding: 20px 10px 20px 10px;
+    display: flex;
+    justify-content: center;
+}
+.section2 h2{
+    font-size: 36px;
+}
