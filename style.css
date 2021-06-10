@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Space Mono',sans-serif;
+    color: #333333;
+    height: auto;
+}
+
+header{
+    display:flex;
+    flex-direction: row;
+    height: 50px;
+}
